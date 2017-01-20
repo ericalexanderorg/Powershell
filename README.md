@@ -1,3 +1,5 @@
 # Powershell Scripts
 
-AD-LIMIT-WORKSTATIONS - Script to limit AD account so it can only log on to a list of systems 
+AD-LIMIT-LOGIN-TO-SERVERS.ps1 - Limit AD accounts so they can only log on to servers
+
+
